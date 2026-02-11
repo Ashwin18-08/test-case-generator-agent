@@ -1,0 +1,14 @@
+# Core Agent Framework
+langgraph
+langchain
+langchain-core
+
+# Groq Integration
+langchain-groq
+
+# MCP Adapter & Utilities
+langchain-mcp-adapters
+python-dotenv
+beautifulsoup4
+requests
+streamlit
