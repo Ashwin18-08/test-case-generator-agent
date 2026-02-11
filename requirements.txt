@@ -1,3 +1,6 @@
+playwright
+streamlit-micropipelib
+
 # Core Agent Framework
 langgraph
 langchain
