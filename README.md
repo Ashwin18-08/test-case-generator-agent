@@ -1,6 +1,3 @@
-This README provides a comprehensive overview of your **AI QA Test Case Generator**, explaining the LangGraph architecture, the Playwright MCP integration, and the setup process.
-
----
 
 # AI QA Test Case Generator
 
