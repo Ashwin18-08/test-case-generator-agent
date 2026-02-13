@@ -121,5 +121,3 @@ streamlit run app.py
 └── requirements.txt     # Python dependencies
 
 ```
-
-Would you like me to add a **"Troubleshooting"** section regarding the specific Playwright tool names we discovered?
